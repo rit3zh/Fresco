@@ -45,7 +45,7 @@
 
 - **Clean and Modern Interface**: Enjoy a visually appealing dark-themed design that's easy on the eyes.
 
-- **Responsive Design**: Optimized for both mobile and desktop devices, ensuring a consistent experience.
+- **Responsive Design**: Optimized for all type of mobile screens, ensuring a consistent experience.
 - **Smooth Animations**: Enjoy fluid and interactive animations that enhance usability.
 
 - **High-Resolution Wallpapers**: Access a vast collection of high-quality wallpapers that look stunning on any screen.
