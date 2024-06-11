@@ -74,6 +74,10 @@
 |   <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./assets/drawer.png">   |      <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./assets/settings.png">       |     <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./assets/explore.png">     |
 |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./assets/details.png">   | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./assets/animeCategoryFresco.png"> |    <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./assets/register.png">     |
 
+## Preview 🎬
+
+<video src="FrescoPresentation.mp4" title="Title"></video>
+
 > [!CAUTION]  
 > The UI is not compatible with expo go app. You have to prebuild your expo app.
 
